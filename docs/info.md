@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Simple AND gate. Two inputs must be high to output high.
+Simple greater than operation that outputs high if first two bits are greater than last two bits.
 
 ## How to test
 
-Output is only high when both inputs are high
+Output is only high when AB > CD
 
 ## External hardware
 
